@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "test": "node --experimental-vm-modules node_modules/.bin/jest --verbose --runInBand",
     "test:watch": "npm run test -- --watch"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tislais/Lab-06-GET-fake-resources-from-the-back-end.git"
